@@ -1,0 +1,7 @@
+D:\dev\Dom\PrimeFactors.Tests\bin\Debug\PrimeFactors.Tests.dll
+D:\dev\Dom\PrimeFactors.Tests\bin\Debug\PrimeFactors.Tests.pdb
+D:\dev\Dom\PrimeFactors.Tests\bin\Debug\PrimeFactors.dll
+D:\dev\Dom\PrimeFactors.Tests\bin\Debug\PrimeFactors.pdb
+D:\dev\Dom\PrimeFactors.Tests\obj\Debug\PrimeFactors.Tests.csprojResolveAssemblyReference.cache
+D:\dev\Dom\PrimeFactors.Tests\obj\Debug\PrimeFactors.Tests.dll
+D:\dev\Dom\PrimeFactors.Tests\obj\Debug\PrimeFactors.Tests.pdb
